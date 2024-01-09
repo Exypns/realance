@@ -1,4 +1,4 @@
-import CheckoutForm from "@/components/CheckoutForm";
+import CheckoutForm from "../components/CheckoutForm";
 import { CREATE_ORDER } from "../utils/constant";
 import { Elements } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
